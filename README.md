@@ -7,26 +7,26 @@
   
  
 --------------------------------------------------------------------------------------------------------------------------------------------
- ###  [박상우](https://github.com/parksw118)(팀장) ([ISFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ISFJ)) 
+ ### [박상우](https://github.com/parksw118)(팀장) ([ISFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ISFJ)) 
     
     안녕하세요. 서울 거주중이고 33살입니다.
     비전공자이며 이번에 처음 개발 공부 시작하는 코린이입니다.
     중꺾마로 끝까지 포기하지 않고 완주하겠습니다.
     
-###  [김명현](https://github.com/kmh5038) ([ENFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfj)) 
+### [김명현](https://github.com/kmh5038) ([ENFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfj)) 
     
     부산에 거주중이고 29살입니다. 비전공자이지만 많은노력으로 팀에 누가되지않도록 열심히 하겠습니다.
     운동,여행,카페를 좋아합니다 ☺️
     
-###  [박소희](https://github.com/sooohi) ([ENFP](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ENFP)) 
+### [박소희](https://github.com/sooohi) ([ENFP](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ENFP)) 
     
     안녕하세요. 저는 23살이고, ios개발자를 꿈꾸고 있습니다. 노는것, 먹는거, 활동적인 것을 좋아합니다. 열심히 하겠습니다:)
     
-###  [박채운](https://github.com/danzi145) ([INTJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-INTJ)) 
+### [박채운](https://github.com/danzi145) ([INTJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-INTJ)) 
     
     기계공학과 다니다가 진로를 바꾼 비전공자로 ios 관련해서는 입문한지 얼마 안된 코린이입니다. 인천 거주, 96년생입니다. 화이팅
     
-###  [최주원](https://github.com/Choe-ju) ([ESFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ESFJ)) 
+### [최주원](https://github.com/Choe-ju) ([ESFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ESFJ)) 
     
     안녕하세요! 대구 옆 경산에 거주하며 27살이고 전공자지만 iOS 앱 개발 하고싶어 다시 공부 하고 있으며
     git 활용법이나 팀프로젝트 하면서 협업 능력 향상 시키고 싶어 지원하게 됐습니다. 다들 열심히 해봐요!!
