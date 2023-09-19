@@ -1,8 +1,10 @@
 
 
 <img src="https://github.com/APP-iOS3rd/Team4_4pple/assets/120579315/7823d0f2-16f3-4a46-a34a-e86bcbdd4eb4.png" width="400" height="250"/>
+<br/><br/>
 
-   **협업의 의미를 이끌어내는 모임**
+        **협업의 의미를 이끌어내는 모임**
+  
  
 --------------------------------------------------------------------------------------------------------------------------------------------
  ###  [박상우](https://github.com/parksw118)(팀장) ([ISFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ISFJ)) [parksw118@nate.com] 
