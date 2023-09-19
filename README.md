@@ -1,6 +1,9 @@
-# Team4_4pple🍎
+#    Team4_4pple
 
+<img src="https://github.com/APP-iOS3rd/Team4_4pple/assets/120579315/7823d0f2-16f3-4a46-a34a-e86bcbdd4eb4.png" width="400" height="250"/>
 
+협업의 의미를 이끌어내는 개발자들의 모임
+ 
 --------------------------------------------------------------------------------------------------------------------------------------------
  ###  [박상우](https://github.com/parksw118)(팀장) ([ISFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ISFJ)) [parksw118@nate.com] 
     
@@ -19,7 +22,7 @@
     
 ### - [박채운](https://github.com/danzi145) ([INTJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-INTJ)) [codns145@gmail.com]
     
-    비전공자로 ios 관련해서는 입문한지 얼마 안된 코린이입니다. 인천 거주, 96년생입니다. 화이팅
+    기계공학과 다니다가 진로를 바꾼 비전공자로 ios 관련해서는 입문한지 얼마 안된 코린이입니다. 인천 거주, 96년생입니다. 화이팅
     
 ### - [최주원](https://github.com/Choe-ju) ([ESFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-ESFJ)) [juwon3415@gmail.com]
     
